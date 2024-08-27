@@ -8,7 +8,7 @@ Complete the information below regarding your group.
 
 ### Group members and zIDs
 - Member 1 (zID1) - Group leader
-- Member 2 (zID2) - Janany
+- Member 2 (z5390604) - Janany
 - Member 3 (zID3) - Alan
 - Member 4 (zID4) - Darryn
 
