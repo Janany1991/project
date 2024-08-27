@@ -7,10 +7,9 @@ Complete the information below regarding your group.
 ## Group and project information
 
 ### Group members and zIDs
-- Member 1 (zID1) - Group leader
-- Member 2 (z5390604) - Janany
-- Member 3 (zID3) - Alan
-- Member 4 (zID4) - Darryn
+- Member 1 (z5390604) - Janany - (TBC)
+- Member 2 (z5386192) - Alan - (TBC)
+- Member 3 (zID4) - Darryn - (TBC)
 
 ### Brief project description
 Describe your project in one paragraph.
