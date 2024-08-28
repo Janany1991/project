@@ -7,9 +7,9 @@ Complete the information below regarding your group.
 ## Group and project information
 
 ### Group members and zIDs
-- Member 1 (z5390604) - Janany - (TBC)
-- Member 2 (z5386192) - Alan - (TBC)
-- Member 3 (zID4) - Darryn - (TBC)
+- Member 1 (z5390604) - Janany Nishatharan - (Data Scientise and Data Analyst)
+- Member 2 (z5386192) - Alan Nguyen - (Project Manager and Data Scientist)
+- Member 3 (z5484676) - Darryn Marjoram - (REseach Lead and Data Scientist)
 
 ### Brief project description
 Describe your project in one paragraph.
